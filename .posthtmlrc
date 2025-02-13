@@ -7,12 +7,108 @@
       "root": "./src/partials",
       "locals": {
         "top": [],
-        "body": [],
+        "body": [
+          {
+            "type": "text",
+            "value": "The class of 2028 is the first group of students admitted to Columbia following the overturning of race-conscious admissions in 2023, marking a significant shift in the University’s admissions practices and a new landmark in its history, which has included key events and figures regarding affirmative action."
+          },
+          {
+            "type": "text",
+            "value": "Affirmative action programs in higher education were created to address the historical legacy of race-based exclusion, legally mandated segregation, and quota systems that limited the enrollment of non-white or other minority students at colleges and universities nationwide."
+          },
+          {
+            "type": "text",
+            "value": "From the impact of Brown v. Board of Education on higher education to the role former University President Lee Bollinger, Law ’71, played in the fight for affirmative action in its landmark 2003 case, Spectator outlines the key events of Barnard and Columbia’s history of affirmative action."
+          },
+          {
+            "type": "graphic",
+            "value": {
+              "asset": "affirmativeactiontimeline.html"
+            }
+          },
+          {
+            "type": "text",
+            "value": "When the Supreme Court ruled that state-sanctioned segregation in public schools was unconstitutional in the landmark 1954 case Brown v. Board of Education, the decision sparked national movements advocating for racial integration in higher education."
+          },
+          {
+            "type": "text",
+            "value": "The fight for affirmative action gained traction at Columbia after Brown v. Board of Education. Following the 1968 protests, the University responded to student demands for affirmative action. Columbia College accepted 260 Black, Hispanic, and Asian students for the 1969 freshman class—145 more students than the previous year."
+          },
+          {
+            "type": "text",
+            "value": "In February 1968, protests erupted on Columbia’s campus, fueled by anti-war activism against Columbia’s affiliation with the Institution of Defense Analysis, as well as plans to construct a segregated gym in Morningside Park with separate entrances for Columbia students and Harlem residents. During the protests, the Society of Afro-American Students and Students for a Democratic Society collectively occupied five academic buildings, resulting in a police crackdown on student protesters."
+          },
+          {
+            "type": "text",
+            "value": "Thirty-five years later, Bollinger, then-president of the University of Michigan, played a pivotal role in defending race-conscious admissions before the Supreme Court in the landmark cases Grutter v. Bollinger and Gratz v. Bollinger."
+          },
+          {
+            "type": "text",
+            "value": "Bollinger shaped the legal framework that allowed affirmative action to persist. The court’s narrow 5-4 decision in Grutter upheld the University of Michigan Law School’s holistic review process, affirming the educational benefits of diversity and placing a 25-year timeline on the necessity of race-conscious policies."
+          },
+          {
+            "type": "text",
+            "value": "Bollinger influenced debates on racial equity in higher education both at Michigan and at Columbia. As affirmative action faced renewed scrutiny before a conservative Supreme Court in 2022, Bollinger expressed deep concern over the potential dismantling of the nearly two-decade precedent he helped establish."
+          },
+          {
+            "type": "text",
+            "value": "A longtime advocate for race-conscious admissions, he warned that overturning Grutter would have profound consequences—not only for elite institutions like Columbia, but also for broader societal norms. He called it a regression from the progress initiated by Brown v. Board of Education. Bollinger’s scholarship and public commentary in “In Search of an Open Mind” continued to underscore the role of diversity in fostering academic excellence and innovation."
+          },
+          {
+            "type": "text",
+            "value": "In Students for Fair Admissions v. Harvard and Students for Fair Admissions v. UNC, the Supreme Court ruled that race-conscious admissions policies were unconstitutional, effectively ending decades of affirmative action in higher education. In response to the ruling, Columbia, under the leadership of former University President Minouche Shafik, issued statements reaffirming its commitment to diversity while acknowledging the need to adjust its admissions policies to comply with the decision."
+          },
+          {
+            "type": "text",
+            "value": "Barnard <a href=\"https://www.columbiaspectator.com/news/2023/09/27/barnard-adds-application-question-on-diversity-equity-and-inclusion-administrators-announce-at-affirmative-action-panel/\">included</a> a question on its college application about diversity, equity, and inclusion after the ruling."
+          },
+          {
+            "type": "text",
+            "value": "This ruling prompted higher education institutions like Columbia and Barnard to navigate the challenges of maintaining diverse student bodies without the use of race as a factor in admissions decisions."
+          },
+          {
+            "type": "text",
+            "value": "Columbia College and the School of Engineering and Applied Science released a joint <a href=\"https://undergrad.admissions.columbia.edu/apply/process/class-profile\">profile</a> on the class of 2028 on Sep. 10, 2024, highlighting notable shifts in first-year racial demographics following the Students for Fair Admissions rulings."
+          },
+          {
+            "type": "text",
+            "value": "Among the six racial and ethnic identities outlined in the profile, the percentage of Black/African American incoming first-years dropped the most. The number of students who identified as Black/African American dropped from 20 percent to 12 percent. The colleges also saw a drop in the number of first-year students who identify as Hispanic/Latine, Native/Indigenous, and white. The data showed a nine percentage point increase in the number of first-year students who identify as  Asian American or Pacific Islander—from 30 percent to 39 percent."
+          },
+          {
+            "type": "text",
+            "value": "At Barnard, the percentage of Hispanic/Latine students decreased the most, dropping from 13 percent to 10 percent. Barnard saw a 2.5 percent decrease in the percentage of Black/African American students, dropping from 12 percent to 9.5 percent. The percentage of white students dropped by 2.5 percent from the class of 2027 to the class of 2028, from 40 percent to 37.5 percent."
+          },
+          {
+            "type": "text",
+            "value": "On Jan. 20, the Trump administration issued an <a href=\"https://www.whitehouse.gov/presidential-actions/2025/01/ending-radical-and-wasteful-government-dei-programs-and-preferencing/\">executive order</a> titled “Ending Radical and Wasteful Government DEI Programs and Preferencing,” which ordered federal agencies to terminate DEI offices, programs, and initiatives. On Jan. 27, the administration issued—and later rescinded—a memorandum which ordered federal agencies to “temporarily pause” federal aid that “may be implicated by the executive orders, including, but not limited to, financial assistance for foreign aid, nongovernmental organizations, DEI, woke gender ideology, and the green new deal.” In the fiscal year 2024, Columbia received $1.3 billion in grants from the federal government."
+          },
+          {
+            "type": "text",
+            "value": "The University is preparing to welcome the class of 2029 in the fall; this will be the second class to matriculate after the overturning of affirmative action."
+          },
+          {
+            "type": "text",
+            "value": "<i>Staff Writer Wiann Wilson can be contacted at </i><a href=\"mailto:wiann.wilson@columbiaspectator.com\"><i>wiann.wilson@columbiaspectator.com</i></a><i>. Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a>"
+          },
+          {
+            "type": "text",
+            "value": "<i>Graphics Reporter Alison Chiu can be contacted at </i><a href=\"mailto:alison.chiu@columbiaspectator.com\"><i>alison.chiu@columbiaspectator.com</i></a><i>. </i><i>Follow Spectator on X </i><a href=\"https://twitter.com/columbiaspec?lang=en\"><i>@ColumbiaSpec</i></a><i>.</i>"
+          },
+          {
+            "type": "text",
+            "value": "<b><i>Want to keep up with breaking news? Subscribe to our </i></b><a href=\"https://columbiaspectator.us4.list-manage.com/subscribe?u=a3d2eeb1ae5560ca04f82f042&id=e51c51d62d\"><b><i>email newsletter </i></b></a><b><i>and like Spectator on </i></b><a href=\"https://www.facebook.com/columbiaspectator\"><b><i>Facebook</i></b></a><b><i>. </i></b>"
+          }
+        ],
+        "headline": "A history of affirmative action at Columbia and Barnard",
+        "date": "February 12, 2025",
+        "byline": "By <a href=\"https://www.columbiaspectator.com/contributors/wiann-wilson/\">Wiann Wilson</a>. Graphics by <a href=\"https://www.columbiaspectator.com/contributors/Alison-Chiu/\">Alison Chiu</a>.",
+        "cover_asset": "https://cloudfront-us-east-1.images.arcpublishing.com/spectator/72QTI6S5OBEQLBXBXOGKYSKCDM.png",
+        "cover_caption": "In Students for Fair Admissions v. Harvard and Students for Fair Admissions v. UNC, the Supreme Court ruled that race-conscious admissions policies were unconstitutional, effectively ending decades of affirmative action in higher education. Illustration by Ramona Delyser / Deputy Illustrations Editor",
         "USE_NEWS_NAV": true,
         "USE_EYE_NAV": false,
-        "USE_COVER_HED": false,
+        "USE_COVER_HED": true,
         "IS_EMBED": false,
-        "DOC_URL": null
+        "DOC_URL": "https://docs.google.com/document/d/1rsSfUta6SvcagB2k98mngwKFgm85Flvre-TPW8biaZM/edit?tab=t.0"
       }
     }
   }
